@@ -4,11 +4,8 @@
 > 
 > This code was made with the new syntax that was implemented since Java 21, The version I used it was the most recent version 23.
 >
-> More about this new syntax:
-<div align="center">
-  
->  [Info, JEP 445: Unnamed Classes and Instance Main Methods](https://openjdk.org/jeps/445)  </div>
-> 
+> More about this new syntax: [JEP 445: Unnamed Classes and Instance Main Methods](https://openjdk.org/jeps/445) 
+
 
 <div align="center">
 
