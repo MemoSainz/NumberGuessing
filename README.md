@@ -1,6 +1,6 @@
 > [!CAUTION]
 >
-> <div align="center"> Syntax from Java 23 </div>
+> <div align="center"> <h2>Syntax from Java 23</h2> </div>
 > 
 > This code was made with the new syntax that was implemented since Java 21, The version I used it was the most recent version 23.
 >
